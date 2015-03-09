@@ -1,0 +1,43 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mreed",
+    "longName": "Barely There",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/FreeSans.ttf",
+                "name": "FONT_FREESANS_16",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:. ]",
+                "compatibility": "2.7",
+                "file": "fonts/FreeSans.ttf",
+                "name": "FONT_FREESANS_48",
+                "type": "font"
+            },
+            {
+                "file": "fonts/FreeSans.ttf",
+                "name": "FONT_FREESANS_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/FreeSans.ttf",
+                "name": "FONT_FREESANS_24",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "BarelyThere",
+    "uuid": "15cf6595-d042-4b6b-a73f-4c2bc9e16db0",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
